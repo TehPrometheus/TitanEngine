@@ -1,4 +1,5 @@
 #pragma once
+#include <iostream>
 namespace dae
 {
 	template <typename T>
